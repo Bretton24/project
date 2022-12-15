@@ -1,0 +1,66 @@
+/*Brett Ashcraft 12/10/2022*/ 
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: rgb(247, 242, 242);
+}
+h1{
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 55px;
+}
+.title{
+    position: relative;
+    font-weight: normal;
+    left: 450px;
+    font-size: 20px;
+}
+.bold{
+    position: relative;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 25px;
+    left: 450px;
+}
+.left{
+    position: relative;
+    left: 100px;
+}
+.right{
+    float: right;
+    padding-right: 30px;
+}
+.center{
+    position: relative;
+    left: 375px;
+}
+.centerlink{
+    text-align: center;
+    font-size: 40px;
+}
+.centerparagraph{
+    text-align: center;
+    font-size: 20px;
+}
+.img{
+    position: relative;
+    left: 100px;
+}
+.img2{
+    position: relative;
+    left: 250px;
+}
+.img3{
+    position: relative;
+    left: 150px;
+}
+.centerlink2{
+    position: relative;
+    left: 450px;
+}
+.centeranchor{
+    position: relative;
+    left: 250px;
+}
